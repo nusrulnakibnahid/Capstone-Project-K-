@@ -21,4 +21,4 @@ Welcome to the ultimate quiz challenge! Test your knowledge across various topic
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://your_repository_url.git
+   git clone https://Capstone_project24.12.22.c.git
